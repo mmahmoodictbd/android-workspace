@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lovely Poetry</string>
+    <string name="loading_list_items">Loading</string>
+</resources>

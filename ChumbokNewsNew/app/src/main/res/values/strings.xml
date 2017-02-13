@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Chumbok News</string>
+    <string name="loading_list_items">Loading</string>
+    <string name="help">Help</string>
+    <string name="action_search">Search</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="menu_item">
+        <item>Daily Feed</item>
+        <item>Modes</item>
+        <item>Favorites</item>
+        <item>Tags</item>
+        <item>Rate us on Play Store</item>
+        <item>Premium</item>
+    </string-array>
+
+    <string-array name="menu_drawables_list">
+        <item>feed</item>
+        <item>modes</item>
+        <item>bookmark</item>
+        <item>tags</item>
+        <item>rate_us</item>
+        <item>premium</item>
+    </string-array>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
